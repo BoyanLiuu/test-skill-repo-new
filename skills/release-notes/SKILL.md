@@ -1,6 +1,6 @@
 ---
 name: release-notes
-description: Drafts release notes for a Git repository from the commits between two refs, grouped into features, fixes and other changes, in the project's house style. Use when the user asks for release notes, a changelog entry, "what changed since <tag>", or a summary of a version's changes.
+description: Drafts release notes for a Git repository from the commits between two refs, grouped into features, fixes and other changes, in the project's house style. Use when the user asks for release notes, a changelog entry, "what changed since tag", or a summary of a version's changes.
 license: MIT
 metadata:
   author: gensoura
